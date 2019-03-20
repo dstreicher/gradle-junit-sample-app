@@ -2,10 +2,10 @@
   "configurations": [
     {
       "type": "java",
-      "name": "CodeLens (Launch) - AddressBook",
+      "name": "CodeLens (Launch)",
       "request": "launch",
       "mainClass": "SampleApp",
-      "projectName": "HW_Template",
+      "projectName": "SampleApp",
       "console": "integratedTerminal"
     }
   ]
